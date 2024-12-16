@@ -26,3 +26,6 @@ contract TokenA is ERC20, Ownable {
         _mint(to, amount);
     }
 }
+
+//Successfully verified contract TokenA on the block explorer.
+//https://sepolia.etherscan.io/address/0xf3945912c8F996B67575C4aB937b21802c37BA42#code

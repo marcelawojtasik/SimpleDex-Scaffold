@@ -116,3 +116,6 @@ contract SimpleDex {
     }
 
 }
+
+//Successfully verified contract SimpleDex on the block explorer.
+//https://sepolia.etherscan.io/address/0xd57Ec4740FaE036D446E653B83f88a82975EE9bB#code

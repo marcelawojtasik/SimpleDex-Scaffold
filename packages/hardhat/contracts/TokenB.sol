@@ -25,3 +25,6 @@ contract TokenB is ERC20, Ownable {
         _mint(to, amount);
     }
 }
+
+//Successfully verified contract TokenB on the block explorer.
+//https://sepolia.etherscan.io/address/0x81406F687357ebF5df9Dd77DF4d705B2e54856cb#code
